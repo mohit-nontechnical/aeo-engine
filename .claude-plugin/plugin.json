@@ -1,0 +1,8 @@
+{
+  "name": "aeo-engine",
+  "description": "GEO/AEO content engine: client intake, technical audits, topic research, grounded content generation, lint gates, and answer-engine measurement. Operators run skills; gates enforce quality.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mohit Asthana"
+  }
+}

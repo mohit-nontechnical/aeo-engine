@@ -1,0 +1,13 @@
+{
+  "name": "aeo",
+  "owner": {
+    "name": "Mohit Asthana"
+  },
+  "plugins": [
+    {
+      "name": "aeo-engine",
+      "source": "./",
+      "description": "GEO/AEO content engine: intake, tech audit, topics, generate, lint, measure."
+    }
+  ]
+}
