@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://salesoslabs.com/schemas/answer-observation.schema.json",
+  "$id": "https://example.com/schemas/answer-observation.schema.json",
   "title": "Consumer answer observation",
   "type": "object",
   "additionalProperties": false,
