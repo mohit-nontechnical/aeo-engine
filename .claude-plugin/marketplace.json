@@ -1,5 +1,6 @@
 {
   "name": "aeo",
+  "description": "Mohit's GEO/AEO service tooling — the aeo-engine plugin.",
   "owner": {
     "name": "Mohit Asthana"
   },
